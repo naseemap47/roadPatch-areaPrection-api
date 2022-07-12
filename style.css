@@ -7,9 +7,9 @@ body{
     height: 100vh;
 }
 
-#display_image{
-    width: 225px;
-    height: 224px;
+#display-image{
+    width: 640px;
+    height: 480px;
     border: 1px solid black;
     background-position: center;
     background-size: cover;
